@@ -1,0 +1,4 @@
+source $DOT_CONFIG_HOME/aliases/fs.sh
+source $DOT_CONFIG_HOME/aliases/git.sh
+source $DOT_CONFIG_HOME/aliases/net.sh
+source $DOT_CONFIG_HOME/aliases/text.sh

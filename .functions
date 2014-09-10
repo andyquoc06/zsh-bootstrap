@@ -1,0 +1,4 @@
+source $DOT_CONFIG_HOME/functions/fs.sh
+source $DOT_CONFIG_HOME/functions/net.sh
+source $DOT_CONFIG_HOME/functions/git.sh
+source $DOT_CONFIG_HOME/functions/text.sh
